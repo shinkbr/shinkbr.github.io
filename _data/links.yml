@@ -1,5 +1,17 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+- url: "https://github.com/shinkbr"
+  description: GitHub
+- url: "https://twitter.com/shinkbr"
+  description: Twitter
+- url: "https://www.facebook.com/shinkbr/"
+  description: Facebook
+- url: "https://www.linkedin.com/in/shinkbr/"
+  description: LinkedIn
+- url: "https://qiita.com/shinkbr"
+  description: Qiita
+- url: "https://www.slideshare.net/shinkbr"
+  description: SlideShare
+- url: "https://bugbounty.jp/users/fRYeV45Sbqxsv1dtYM67CuAr"
+  description: BugBounty.jp
+- url: "https://hackerone.com/shinkbr?type=user"
+  description: HackerOne
